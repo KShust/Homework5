@@ -1,0 +1,31 @@
+p {
+    color: #540547;
+}
+
+#blue {
+    color:blue;
+}
+
+.abzac2 #green {
+    color: yellow;
+}
+
+.red {
+    color: red;
+}
+
+.abzac1 {
+    color: plum;
+}
+
+.abzac3 .union {
+    color: green;
+}
+
+div p {
+    color:blueviolet;
+}
+
+li {
+    color: #acceac;
+}
